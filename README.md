@@ -7,7 +7,7 @@
 
 <h5 align="center">
   <code><a href="www.linkedin.com/in/web-dev-md-shahil" title="LinkedIn Profile"><img width="14" src="https://skillicons.dev/icons?i=linkedin"> LinkedIn</a></code>
-  <code><a href="shahil.connect@gmail.com" title="Stack Overflow Profile"><img width="14" src="https://skillicons.dev/icons?i=gmail"> Gmail</a></code>
+  <code><a href="mailto:shahil.connect@gmail.com" title="Stack Overflow Profile"><img width="14" src="https://skillicons.dev/icons?i=gmail"> Gmail</a></code>
   <code><a href="https://x.com/MdShahil220" title="X Profile"><img width="14" src="https://skillicons.dev/icons?i=twitter"> X</a></code>
 </h5>
 <h3 align="center">🌟 Full Stack Dev | Code, Create, Deploys</h3>
