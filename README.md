@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Shahil</h1>
 <h3 align="center">🚀 Full Stack Developer | Building scalable apps with modern web & backend technologies</h3>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahilmd" alt="shahilmd" /></a> </p>
 <div align="center">
 	<br>
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahilmd" alt="shahilmd" /></a> </p>
-
 - 🔭 I’m currently working on **Jamify**
 
 - 🌱 I’m currently learning **NextJS,microservice architecture, TypeScript**
