@@ -21,7 +21,7 @@ Hi, I'm Shahil, a 22-year-old Full Stack Developer from India. I enjoy turning i
 		<img src="good-times.svg" width="400px">
 	<br>
 </div>
-- 🔭 I’m currently working on **Jamify**
+- 🔭 I’m currently working on **worksphare**
 
 - 🌱 I’m currently learning **NextJS,microservice architecture, TypeScript**
 
